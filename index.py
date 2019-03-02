@@ -1,4 +1,4 @@
-from classes import classes
+from classes_dict import classes
 from welcome_email_template import welcome_template
 from overdue_email_template import overdue_template
 
